@@ -10,3 +10,21 @@ body {
   color: white;
   background-color: rgba(0, 0, 0, 0.5);
 }
+
+.a {
+  background-color:blanchedalmond;
+  font-weight: 600;
+  font-style: italic;
+  padding-left: 15px;
+  border: 2px dotted green;
+}
+
+.b {
+  background-color: black;
+  color: white;
+  margin-bottom: 0;
+  font-weight: bold;
+  border: 3px solid green;
+  padding: 10px;
+  text-align: center;
+}
